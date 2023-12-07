@@ -1,0 +1,1 @@
+create database if not exists youngtse default character set utf8mb4 default COLLATE utf8_unicode_ci;
